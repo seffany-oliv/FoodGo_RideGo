@@ -13,3 +13,5 @@ dependencies = ["flet_geolocator", "flet_map"]
 [tool.flet.android.permission]
 "android.permission.ACCESS_FINE_LOCATION" = true
 "android.permission.ACCESS_COARSE_LOCATION" = true
+
+
